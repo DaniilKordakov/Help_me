@@ -14,3 +14,4 @@ int main()
 	b = sqrt(fabs(x - y) / x + 8 * y * y) - pow(sqrt(pow(x, 5) + x * y / pow(3 + y, 2)), 1.0 / 3) + pow(M_E, 5 * y);
 	cout << b;
 }
+//WORDS
