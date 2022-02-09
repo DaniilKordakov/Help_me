@@ -1,7 +1,7 @@
 #define _USE_MATH_DEFINES
 #include <iostream>
 #include <math.h>
-
+//Comment from lab 7
 using namespace std;
 
 int main()
