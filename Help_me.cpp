@@ -13,3 +13,9 @@ int main()
 	cout << b;
 }
 //Comment from lab 8
+//
+//
+//
+//
+//
+//
