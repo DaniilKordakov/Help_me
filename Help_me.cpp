@@ -1,9 +1,7 @@
 #define _USE_MATH_DEFINES
 #include <iostream>
 #include <math.h>
-//Comment from lab 7
 using namespace std;
-
 int main()
 {
 	double a, m, t, c, b, x, y;
@@ -14,5 +12,4 @@ int main()
 	b = sqrt(fabs(x - y) / x + 8 * y * y) - pow(sqrt(pow(x, 5) + x * y / pow(3 + y, 2)), 1.0 / 3) + pow(M_E, 5 * y);
 	cout << b;
 }
-//WORDS
-//Text
+//Comment from lab 8
